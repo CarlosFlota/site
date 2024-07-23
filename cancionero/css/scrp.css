@@ -1,0 +1,28 @@
+{
+    margin:0;
+    padding:0;
+}
+#vertical{
+    border:1px solid black
+    width: 300px;
+    margin:20px;
+}
+ul{
+    list-style:none;
+
+}
+li{
+    border: 1px solid black
+}
+a{
+    text-decoration:node;
+    background-color:  blueviolet;
+    color: white
+    padding:15px;
+    display:block;
+}
+
+a:hover{
+    background-color: white;
+    color: blueviolet;
+}
