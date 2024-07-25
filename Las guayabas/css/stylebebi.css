@@ -88,7 +88,7 @@ img{
     color: white;
     padding: 5px;
     border-radius: 10px;
-    border: 2px solid orange;
+    border: 1px solid orange;
 }
 .navegacion li:last-child a:last-child:hover{
     background-color: white;
