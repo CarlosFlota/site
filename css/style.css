@@ -5,7 +5,7 @@
     font-family: 'Montserrat Alternates', sans-serif;
 }
 body{
-    background: url ("https://www.freepik.es/foto-gratis/pintura-lago-montana-montana-al-fondo_40965130.htm#fromView=search&page=1&position=8&uuid=c148a59a-578b-432d-81bc-b17be40add49");
+    background: url "https://www.freepik.es/foto-gratis/pintura-lago-montana-montana-al-fondo_40965130.htm#fromView=search&page=1&position=8&uuid=c148a59a-578b-432d-81bc-b17be40add49" ;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
